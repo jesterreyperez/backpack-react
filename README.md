@@ -69,6 +69,14 @@ Here's what the app shows:
 
 ![App preview](./flight-schedule-screenshot.png)
 
+---
+
+## 💡 Note
+
+- This app is for educational/demo purposes and doesn't connect to real flight data.
+
+---
+
 ## 👨‍💻 About the Project
 
 This simulation replicates a realistic developer task at Skyscanner, requiring component integration and test verification. It's designed to showcase front-end skills in a practical, job-like setting.
