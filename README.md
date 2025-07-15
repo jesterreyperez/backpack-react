@@ -67,7 +67,7 @@ To run the test:
 
 Here's what the app shows:
 
-<img src="">
+![App preview](./flight-schedule-screenshot.png)
 
 ## 👨‍💻 About the Project
 
